@@ -1,52 +1,70 @@
-# Beginner_Hactoberfest2022
-###### tags: `Hacktoberfest2022` `Happy Hacking💻!!!`
+# Getting Started with Create React App
 
-**Happy Hacktober!** This is a *beginner friendly* repository made specifically for Hacktoberfest that helps you get your first PR and takes you a step closer to earning your Hacktoberfest T-shirt 👕 and stickers.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-> Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt. [color=#3b75c6]
+## Available Scripts
 
-**Contribute to start your journey with hacktoberfest and python.**
+In the project directory, you can run:
 
-## Languages
-* 💻 C
-* 💻 C++
-* 💻 PHP
-* 💻 Python
-* 💻 Java
-* 💻 Javascript
-* 💻 Go
+### `npm start`
 
-## Programs
-1. Write a program to print the sum of digit of a number.
-1. Write a program to print the Fibonacci series up to a given number.
-1. Write a program to check a given number is palindrom or not.
-1. Write a program to check a given number is armstrong or not.
-1. Write a program to find different between sum and product of a number.
-1. Write a program to find all setbits in a number.
-1. Write a program to print the Floyds triangle.
-1. Write a program to swap the values of two variables.
-1. Write a program to find given number is power of two or not.
-1. Write a program to print the reverse of a given string.
-1. Write a program to merge two sorted array without extra space.
-1. Write a program to count vowel in a given string.
-1. Write a program for addition two nxm matrices.
-1. Write a program for multiplication fo nxm matrices.
-1. and many more...
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<img width="666" alt="Screenshot 2022-10-15 at 22 16 17" src="https://user-images.githubusercontent.com/38398999/196004160-adc1a014-6cff-4a29-b159-0597c099f1ef.png">
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
->Note:
-1. All contributors who have followed the rules to contribute will get successfully merged PR. Don't forget to follow!!!
-2. Star this repo.
-3. Add your name as a contributor.
-4. Always make more than 4 pull requests so that even if one project gets excluded, you have other backups.
-5. If you fail to make 4 pull requests, you won't get swags.
-6. I will recommend you also make pull requests to your own repo which is the safest option.
-7. Keep in mind that your repo should have hacktoberfest topic.
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Contribute here for Hacktoberfest2022
-STEPS TO CONTRIBUTE IN THIS REPO
-![](https://i.imgur.com/6KE3C1g.png)
+### `npm run build`
 
-# Happy Hacking 💻
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
